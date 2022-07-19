@@ -2,7 +2,7 @@
 Autor: Lázaro José Pedrosa dos Reis
 Universidade Federal do Espírito Santo
 Estrutura de Dados II
-2019
+2020
 */
 
 #include <stdio.h>
