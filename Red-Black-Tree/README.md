@@ -1,4 +1,4 @@
-# Conding in the Federal University of Espírito Santo
+# Data Structures
 Code produced in the Data Sctruture II class in the Federal University of Espírito Santo
 
 A red-black tree is a kind of self-balancing binary search tree where each node has an extra bit, and that bit is often interpreted as the color (red or black). These colors are used to ensure that the tree remains balanced during insertions and deletions. Although the balance of the tree is not perfect, it is good enough to reduce the searching time and maintain it around O(log n) time, where n is the total number of elements in the tree. This tree was invented in 1972 by Rudolf Bayer. 

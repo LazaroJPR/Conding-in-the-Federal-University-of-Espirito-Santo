@@ -1,4 +1,4 @@
-# Conding in the Federal University of Espírito Santo
+# Data Structures
 Code produced in the Data Sctruture I class in the Federal University of Espírito Santo
 
 Binary Search Tree is a node-based binary tree data structure which has the following properties:
